@@ -4,7 +4,7 @@ Created a web scraper using simple functions to check price of a product on amaz
 
 Procedure:
 
-1. Importing libraries
+1. Import libraries
 2. Specify the URL from where data is to be scraped
 3. Specify system specific headers
 4. Create soup objects required for scraping
